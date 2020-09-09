@@ -27,9 +27,6 @@
 - [id-scanner](https://github.com/maximfadeev/id-scanner) - A python script that extracts information from national ID cards, built during my internship at Bank RBK.
 - [Touch Prototype](https://github.com/maximfadeev/touch-prototype) - A touch typing practice app built in order to learn and familiarise myself with React.
 
-### Currently working on
-- Refactoring code for [Netflist](https://netflist.herokuapp.com) according to the Airbnb styleguide
-- Learning React
 
  
  
