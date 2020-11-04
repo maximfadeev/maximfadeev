@@ -8,18 +8,18 @@
 - Actively looking for work in the United States and Canada
 
 ### Technologies
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blueviolet)
 
 ### Projects
 - [Netflist](https://github.com/maximfadeev/netflist) - Web application that allows you to create lists consisting of movies, shows and episodes on Netflix.
