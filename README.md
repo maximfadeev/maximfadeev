@@ -3,9 +3,9 @@
 ### About me
 - Recent graduate from New York University (Spring 2020)
 - Majored in Computer Science
-- Aspiring web developer / full-stack-developer
+- Web developer / full-stack-developer
 - Eager to learn from and work with experienced and passionate developers
-- Actively looking for work in the United States and Canada
+- Actively looking for work in Canada
 
 ### Technologies
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
